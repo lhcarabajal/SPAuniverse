@@ -1,0 +1,32 @@
+:root {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.6rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+main {
+  margin-top: 10rem;
+  margin-left: 10rem;
+}
+
+main h1 {
+  font-size: 4.8rem;
+  margin-bottom: 1.6rem;
+}
+main p {
+  font-size: 1.8rem;
+  max-width: 64rem;
+  line-height: 2.8rem;
+  opacity: 0.7;
+}
